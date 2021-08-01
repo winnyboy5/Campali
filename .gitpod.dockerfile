@@ -1,6 +1,6 @@
 FROM gitpod/workspace-full:latest
 
-LABEL maintainer="lohnsonok@gmail.com"
+LABEL maintainer="vitortorresvt@gmail.com"
 
 USER root
 
